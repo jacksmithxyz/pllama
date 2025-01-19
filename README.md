@@ -1,3 +1,5 @@
+# pllama
+
 pllama is a way to pretty print output from Ollama models in your terminal. 
 
 Here is an example of what the output from pllama looks like. 
